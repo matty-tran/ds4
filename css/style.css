@@ -1,0 +1,46 @@
+body{
+    padding: 40px; 
+    background-color: black;
+    font-size: 150%;
+}
+ul, footer, h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    color: pink;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+p{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+ul, a{
+    color: pink;
+    font-style: italic;
+}
+h2{
+    color: palegoldenrod;
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+img {
+    float: left; 
+    width: 50%;
+    margin-right: 25px;
+
+}
+
+main div {
+    display: block;
+    margin-bottom: 45px;
+}
+
+/* .active {
+
+} */
